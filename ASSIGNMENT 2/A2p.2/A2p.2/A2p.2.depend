@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665971633 source:c:\users\italy\onedrive\documents\c & unix\assignment 2\a2p.2\a2p.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

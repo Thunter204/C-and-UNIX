@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670205050 source:c:\users\italy\onedrive\documents\c & unix\assignment 5\a5p.1\a5p.1\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
